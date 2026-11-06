@@ -1,0 +1,28 @@
+{
+  "item.spatialinversion.spatial_inversion_factor": "Spatial Inversion Factor",
+  "spatialinversion.ability.spatial_inversion": "Spatial Inversion",
+
+  "spatialinversion.skill.spatial_link": "Spatial Link",
+  "spatialinversion.skill.spatial_link.desc": "Create two connected spatial anchors. Projectiles and eligible objects entering one anchor emerge instantly from the other.",
+
+  "spatialinversion.skill.vector_redirect": "Vector Redirect",
+  "spatialinversion.skill.vector_redirect.desc": "Create a temporary directional spatial aperture that catches incoming projectiles and redirects their trajectory.",
+
+  "spatialinversion.skill.spatial_exchange": "Spatial Exchange",
+  "spatialinversion.skill.spatial_exchange.desc": "Invert the spatial coordinates of yourself and target entity, instantly swapping positions. Destination must be safe; bosses resist.",
+
+  "spatialinversion.skill.distortion_field": "Distortion Field",
+  "spatialinversion.skill.distortion_field.desc": "Generate a 6-block radius spatial curvature field around yourself that deflects and bends incoming projectile trajectories away.",
+
+  "spatialinversion.skill.inversion_strike": "Inversion Strike",
+  "spatialinversion.skill.inversion_strike.desc": "Tear a spatial aperture and strike through the folded dimension, causing a concentrated dimensional burst at the target location.",
+
+  "spatialinversion.skill.fold_step": "Fold Step",
+  "spatialinversion.skill.fold_step.desc": "Fold Euclidean space between two points and traverse through the shortcut instantly up to 16 blocks away.",
+
+  "spatialinversion.skill.spatial_cage": "Spatial Cage",
+  "spatialinversion.skill.spatial_cage.desc": "Erect up to four interconnected planar spatial barriers enclosing an 8-block zone, redirecting escaping projectiles and containing foes.",
+
+  "spatialinversion.skill.absolute_inversion": "Absolute Inversion",
+  "spatialinversion.skill.absolute_inversion.desc": "Deploy two massive spatial inversion manifolds reversing the relationship between their areas. Catches and inverts enemy attacks across 30 blocks."
+}

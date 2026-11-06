@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="spatialinversion"
+version="${version}"
+displayName="Spatial Inversion (Re:AcademyCraft Add-on)"
+description='''
+Adds the Level 5 Spatial Inversion Esper Category to Re:AcademyCraft:
+Spatial Link, Vector Redirect, Spatial Exchange, Distortion Field,
+Inversion Strike, Fold Step, Spatial Cage, and Absolute Inversion (Ultimate).
+Featuring custom blue-white 3D geometric rendering and spatial manipulation physics.
+'''
+
+[[dependencies.spatialinversion]]
+modId="academy"
+mandatory=true
+versionRange="[1.5.0,1.6)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.spatialinversion]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,48)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spatialinversion]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
